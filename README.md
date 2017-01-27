@@ -15,6 +15,7 @@ This script will give you a JSON with **ALL** the services, and there is a lot o
 
 ## TODO
 * Build an API using this JSON as base.
+* Deploy this is script with a cronjob
 
 ## Contributors
 [rafaelmv](https://github.com/rafaelmv) - Rafael Miranda
